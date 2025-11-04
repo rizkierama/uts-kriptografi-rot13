@@ -1,8 +1,8 @@
 # 📌 README — Program ROT13 Python
 
 **Judul Program :** Implementasi Algoritma ROT13  
-**Mata Kuliah :** …  
-**Dosen Pengampu :** …  
+**Mata Kuliah :** Kriptografi  
+**Dosen Pengampu :** Saiful Nur Budiman, S.Kom., M.Kom   
 
 ---
 
@@ -16,7 +16,6 @@
 | 4 | Nur Cindy Intan Fanderella | 22104410098 |
 | 5 | Hanik Hatul Halimah        | 22104410101 |
 | 6 | Wasi'atul Jannah           | 22104410120 |
-| 7 | Sahrul Ramadhan            | 22104414002 |
 
 ---
 
